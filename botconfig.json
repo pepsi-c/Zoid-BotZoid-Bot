@@ -1,0 +1,6 @@
+{
+    "token": "2",
+    "prefix": "$",
+    "logsChannel": "logs",
+    "reportsChannel": "reports"
+}
